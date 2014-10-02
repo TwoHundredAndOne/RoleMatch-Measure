@@ -2,6 +2,15 @@
 Thumbs.db
 ehthumbs.db
 
+
+# Compiled source #
+###################
+*.pyc
+*.aux
+*.log
+*.gz
+
+
 # Folder config file
 Desktop.ini
 
